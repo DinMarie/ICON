@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BigHitVerse</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on BigHitVerse</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BIGHIT MUSIC</title>
+      <link>//localhost:1313/posts/papermod/papermod-installation/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/papermod-installation/</guid>
+      <description>Get to know About Bighit Music</description>
+    </item>
+    <item>
+      <title>Bighit Music Artist</title>
+      <link>//localhost:1313/posts/papermod/papermod-features/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/papermod-features/</guid>
+      <description>Getting to Know Bighit Artist</description>
+    </item>
+    <item>
+      <title>Beyond the Scene: The Journey, Impact, and Legacy of BTS</title>
+      <link>//localhost:1313/posts/markdown-syntax.fr/</link>
+      <pubDate>Thu, 13 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fr/</guid>
+      <description>Get To Know More About BTS</description>
+    </item>
+    <item>
+      <title>BTS (방탄소년단)</title>
+      <link>//localhost:1313/posts/markdown-syntax.fa/</link>
+      <pubDate>Thu, 13 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax.fa/</guid>
+      <description>Get To Know More About BTS</description>
+    </item>
+    <item>
+      <title>Lee Hyun</title>
+      <link>//localhost:1313/posts/rich-content/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/rich-content/</guid>
+      <description>Get To Know About Lee Hyun</description>
+    </item>
+    <item>
+      <title>Tomorrow X Together  (TXT) </title>
+      <link>//localhost:1313/posts/code_syntax/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/code_syntax/</guid>
+      <description>Get to know More About TXT.</description>
+    </item>
+    <item>
+      <title>Tomorrow X Together: The Rise of the 4th Gen It Boys</title>
+      <link>//localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/markdown-syntax/</guid>
+      <description>Get to Know More About TXT</description>
+    </item>
+    <item>
+      <title>Bighit Music Weekly Playlist</title>
+      <link>//localhost:1313/posts/math-typesetting/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/math-typesetting/</guid>
+      <description>Listen to Bighit Music Artist</description>
+    </item>
+    <item>
+      <title>United by Music: Exploring the Fandoms of BigHit Music</title>
+      <link>//localhost:1313/posts/emoji-support/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/emoji-support/</guid>
+      <description>Read More About Bighit Fandoms</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+/* General Styles */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6; 
+    text-align: justify; 
+    word-spacing: 0.1em; 
+    letter-spacing: 0.05em;
+
+    /* Add text color */
+    color: #e904f1; /* Change to your desired color code */
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: calc(100% - 80px); /* Adjust the max-width as needed */
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    line-height: 100px;
+    background-image: url('https://staticg.sportskeeda.com/editor/2022/03/2cbe6-16479582998351-1920.jpg'); /* Background image for the nav */
+    background-size: cover;
+    background-position: center;
+    padding: 10px 20px; /* Space inside the nav */
+}
+
+.nav a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+/* Logo Styling */
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo a {
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+
+.logo a img {
+    display: inline-block;
+    vertical-align: middle;
+    pointer-events: none;
+    margin-right: 8px;
+    max-height: 100px; /* Limit the logo size */
+}
+
+/* Menu Styling */
+#menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+#menu li {
+    margin-left: 20px;
+}
+
+#menu a {
+    font-size: 16px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+#menu a img {
+    margin-right: 8px;
+    max-width: 20px; /* Adjust icon size */
+    height: auto;
+}
+
+/* Active Menu Item */
+#menu .active {
+    font-weight: 500;
+    border-bottom: 2px solid currentColor;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+    .nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #menu {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #menu li {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}
